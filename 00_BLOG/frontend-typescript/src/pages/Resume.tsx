@@ -13,73 +13,50 @@ function Resume() {
         <section id="resume" className="resume">
           <div className="container" data-aos="fade-up">
             <div className="section-title">
-              <h2>Resume</h2>
-              <p>
-                Magnam dolores commodi suscipit. Necessitatibus eius consequatur
-                ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam
-                quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.
-                Quia fugiat sit in iste officiis commodi quidem hic quas.
-              </p>
+              <h2>사회활동 및 경험</h2>
             </div>
 
             <div className="row">
               <div className="col-lg-6">
-                <h3 className="resume-title">Sumary</h3>
+                <h3 className="resume-title">최종 학력</h3>
                 <div className="resume-item pb-0">
-                  <h4>Alice Barkley</h4>
-                  <p>
-                    <em>
-                      Innovative and deadline-driven Graphic Designer with 3+
-                      years of experience designing and developing user-centered
-                      digital/print marketing material from initial concept to
-                      final, polished deliverable.
-                    </em>
-                  </p>
-                  
+                  <h4>예원고등학교 미용과</h4>
+                  <br/>
                     <ul>
-                      <li>Portland par 127,Orlando, FL</li>
-                      <li>(123) 456-7891</li>
-                      <li>alice.barkley@example.com</li>
+                      <li>부산 금정구 회천로13번길 60 부산예원고등학교</li>
+                      <li>051-529-4441</li>
+                      <li><a href="http://yewon.hs.kr/">홈페이지</a></li>
                     </ul>
                   
                 </div>
 
-                <h3 className="resume-title">Education</h3>
+                <h3 className="resume-title">자바 개발자 교육과정</h3>
                 <div className="resume-item">
-                  <h4>Master of Fine Arts &amp; Graphic Design</h4>
-                  <h5>2015 - 2016</h5>
+                  <h4>부산 그린 컴퓨터 아카데미</h4>
+                  <h5>2023.07 ~ 2023.12</h5>
                   <p>
-                    <em>Rochester Institute of Technology, Rochester, NY</em>
+                  <br/>1. 다양한 기기의 융합, 네트워크의 융합, 콘텐츠의 융합을 통한 4차 산업시대에 걸맞는 새로운 형태의 융합 서비스를 창출하기 위한 능력 함양.
+                  <br/>
+                  <br/>2. 디지털 환경이 요구하는 업무 영역 및 운영 환경에 맞는 소프트웨어를 설계, 구현, 테스트를 수행하고, 융합하여 서비스를 개선하는 업무능력 함양.
+                  <br/>
+                  <br/>3. 관계형데이터베이스에서 SQL을 사용하여 응용 SW의 기능에 적합한 데이터를 정의하고, 조작하며, 제어하는 능력을 함양.
+                  <br/>
+                  <br/>4. 자바(Java)를 활용하여 객체지향 프로그래밍 능력을 함양하고 공통모듈을 구현 및 통합하여 웹 애플리케이션을 개발 능력 함양.
+                  <br/>
+                  <br/>
                   </p>
-                  <p>
-                    Qui deserunt veniam. Et sed aliquam labore tempore sed
-                    quisquam iusto autem sit. Ea vero voluptatum qui ut
-                    dignissimos deleniti nerada porti sand markend
-                  </p>
-                </div>
-                <div className="resume-item">
-                  <h4>Bachelor of Fine Arts &amp; Graphic Design</h4>
-                  <h5>2010 - 2014</h5>
-                  <p>
-                    <em>Rochester Institute of Technology, Rochester, NY</em>
-                  </p>
-                  <p>
-                    Quia nobis sequi est occaecati aut. Repudiandae et iusto
-                    quae reiciendis et quis Eius vel ratione eius unde vitae
-                    rerum voluptates asperiores voluptatem Earum molestiae
-                    consequatur neque etlon sader mart dila
-                  </p>
+                  <ul>
+                      <li>부산 부산진구 중앙대로 749</li>
+                      <li>051-715-6224</li>
+                      <li><a href="https://green-bs.step.or.kr/main.do">홈페이지</a></li>
+                    </ul>
                 </div>
               </div>
               <div className="col-lg-6">
-                <h3 className="resume-title">Professional Experience</h3>
+                <h3 className="resume-title">사회 경험</h3>
                 <div className="resume-item">
-                  <h4>Senior graphic design specialist</h4>
-                  <h5>2019 - Present</h5>
-                  <p>
-                    <em>Experion, New York, NY </em>
-                  </p>
-                  
+                  <h4>바로고</h4>
+                  <h5>2015.05 ~ 2019.12</h5>
                     <ul>
                       <li>
                         Lead in the design, development, and implementation of
