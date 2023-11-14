@@ -32,11 +32,6 @@ function HeaderCom() {
                 </a>
               </li>
               <li className='nav-item'>
-                <a href="/services" className={location.pathname === '/services' ? 'active' : ''}>
-                  Services
-                </a>
-              </li>
-              <li className='nav-item'>
                 <a href="/contact" className={location.pathname === '/contact' ? 'active' : ''}>
                   Contact
                 </a>

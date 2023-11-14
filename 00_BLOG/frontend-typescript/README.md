@@ -34,7 +34,7 @@ import AOS from "aos";
 
 # 7) npm install typed.js  : npm 설치
 # 공홈 : https://mattboldt.github.io/typed.js/ 
-npm install typed.js 
+npm install typed.js
 
 # 7-1) import 방법
 import Typed from "typed.js";

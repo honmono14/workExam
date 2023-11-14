@@ -21,14 +21,14 @@ function About() {
 
             <div className="row">
               <div className="col-lg-4">
-                <img src="assets/img/about.jpg" className="img-fluid" alt="" />
+                {/* 이미지 변경 안됌 */}
+                <img src="assets/img/about2.jpg" className="img-fluid" alt="" />
+                {/* 이미지 변경 안됌 */}
               </div>
               <div className="col-lg-8 pt-4 pt-lg-0 content">
                 {/* &amp; -> & */}
                 <h3>자바 개발자</h3>
-                <p className="fst-italic">
-                  추가 설명
-                </p>
+                <br/>
                 <div className="row">
                   <div className="col-lg-6">
                     <ul>
@@ -42,7 +42,7 @@ function About() {
                       </li>
                       <li>
                         <i className="bi bi-rounded-right"></i>{" "}
-                        <strong>거주지 :</strong> 부산광역시 동래구
+                        <strong>거주지 :</strong> 부산광역시 동래구 낙민동
                       </li>
                     </ul>
                   </div>
@@ -54,18 +54,11 @@ function About() {
                       </li>
                       <li>
                         <i className="bi bi-rounded-right"></i>{" "}
-                        <strong>E-Mail:</strong> wmnm1150@gmail.com
-                      </li>
-                      <li>
-                        <i className="bi bi-rounded-right"></i>{" "}
-                        <strong>직업:</strong> 학생
+                        <strong>E-Mail :</strong> wmnm1150@gmail.com
                       </li>
                     </ul>
                   </div>
                 </div>
-                <p>
-                  부가 설명
-                </p>
               </div>
             </div>
           </div>
@@ -86,13 +79,13 @@ function About() {
               <div className="col-lg-6">
                 <div className="progress">
                   <span className="skill">
-                    HTML <i className="val">100%</i>
+                    HTML <i className="val">80%</i>
                   </span>
                   <div className="progress-bar-wrap">
                     <div
                       className="progress-bar"
                       role="progressbar"
-                      aria-valuenow={100}
+                      aria-valuenow={80}
                       aria-valuemin={0}
                       aria-valuemax={100}
                     ></div>
@@ -101,13 +94,13 @@ function About() {
 
                 <div className="progress">
                   <span className="skill">
-                    CSS <i className="val">90%</i>
+                    CSS <i className="val">70%</i>
                   </span>
                   <div className="progress-bar-wrap">
                     <div
                       className="progress-bar"
                       role="progressbar"
-                      aria-valuenow={90}
+                      aria-valuenow={70}
                       aria-valuemin={0}
                       aria-valuemax={100}
                     ></div>
@@ -148,13 +141,13 @@ function About() {
 
                 <div className="progress">
                   <span className="skill">
-                    SQL <i className="val">90%</i>
+                    SQL <i className="val">75%</i>
                   </span>
                   <div className="progress-bar-wrap">
                     <div
                       className="progress-bar"
                       role="progressbar"
-                      aria-valuenow={90}
+                      aria-valuenow={75}
                       aria-valuemin={0}
                       aria-valuemax={100}
                     ></div>
@@ -181,63 +174,14 @@ function About() {
         </section>
         {/* <!-- End Skills Section --> */}
 
-        {/* <!-- ======= Facts Section ======= --> */}
-        <section id="facts" className="facts">
-          <div className="container" data-aos="fade-up">
-            <div className="section-title">
-              <h2>Facts</h2>
-              <p>
-                Magnam dolores commodi suscipit. Necessitatibus eius consequatur
-                ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam
-                quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.
-                Quia fugiat sit in iste officiis commodi quidem hic quas.
-              </p>
-            </div>
-
-            <div className="row counters">
-              <div className="col-lg-3 col-6 text-center">
-                <span
-                  data-purecounter-start="0"
-                  data-purecounter-end="232"
-                  data-purecounter-duration="1"
-                  className="purecounter"
-                ></span>
-                <p>Clients</p>
-              </div>
-
-              <div className="col-lg-3 col-6 text-center">
-                <span
-                  data-purecounter-start="0"
-                  data-purecounter-end="521"
-                  data-purecounter-duration="1"
-                  className="purecounter"
-                ></span>
-                <p>Projects</p>
-              </div>
-
-              <div className="col-lg-3 col-6 text-center">
-                <span
-                  data-purecounter-start="0"
-                  data-purecounter-end="1463"
-                  data-purecounter-duration="1"
-                  className="purecounter"
-                ></span>
-                <p>Hours Of Support</p>
-              </div>
-
-              <div className="col-lg-3 col-6 text-center">
-                <span
-                  data-purecounter-start="0"
-                  data-purecounter-end="15"
-                  data-purecounter-duration="1"
-                  className="purecounter"
-                ></span>
-                <p>Hard Workers</p>
-              </div>
-            </div>
-          </div>
-        </section>
-        {/* <!-- End Facts Section --> */}
+        {/* 공백용 br태그 */}
+        <div>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+        </div>
+        {/* 공백용 br태그 */}
 
         
       </main>

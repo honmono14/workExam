@@ -7,7 +7,6 @@ import About from './pages/About';
 import Resume from './pages/Resume';
 import Header from './components/common/Header';
 import Footer from './components/common/Footer';
-import Services from './pages/Services';
 import Contact from './pages/Contact';
 
 function App() {
@@ -20,7 +19,6 @@ function App() {
         <Route path={"/"} element={<Home/>} />
         <Route path={"/about"} element={<About/>} />
         <Route path={"/resume"} element={<Resume/>} />
-        <Route path={"/services"} element={<Services/>} />
         <Route path={"/contact"} element={<Contact/>} />
       </Routes>
       {/* 꼬리말 */}

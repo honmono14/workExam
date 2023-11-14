@@ -57,54 +57,62 @@ function Resume() {
                 <div className="resume-item">
                   <h4>바로고</h4>
                   <h5>2015.05 ~ 2019.12</h5>
+                  <p>
+                    <em>담당 업무</em>
+                  </p>
                     <ul>
                       <li>
-                        Lead in the design, development, and implementation of
-                        the graphic, layout, and production communication
-                        materials
-                      </li>
-                      <li>
-                        Delegate tasks to the 7 members of the design team and
-                        provide counsel on all aspects of the project.{" "}
-                      </li>
-                      <li>
-                        Supervise the assessment of all graphic materials in
-                        order to ensure quality and accuracy of the design
-                      </li>
-                      <li>
-                        Oversee the efficient use of production project budgets
-                        ranging from $2,000 - $25,000
+                        배차 관리, 가맹점 관리, 기사 관리
                       </li>
                     </ul>
-                  
                 </div>
                 <div className="resume-item">
-                  <h4>Graphic design specialist</h4>
-                  <h5>2017 - 2018</h5>
+                  <h4>쿠팡</h4>
+                  <h5>2020.05 ~ 2020.12</h5>
                   <p>
-                    <em>Stepping Stone Advertising, New York, NY</em>
-                  </p>
-                  
+                    <em>담당 업무</em>
+                  </p>                  
                     <ul>
                       <li>
-                        Developed numerous marketing programs (logos,
-                        brochures,infographics, presentations, and
-                        advertisements).
-                      </li>
-                      <li>
-                        Managed up to 5 projects or tasks at a given time while
-                        under pressure
-                      </li>
-                      <li>
-                        Recommended and consulted with clients on the most
-                        appropriate graphic design
-                      </li>
-                      <li>
-                        Created 4+ design presentations and proposals a month
-                        for clients and account managers
+                        새벽 배송, 반품 회수
                       </li>
                     </ul>
-                  
+                </div>
+                <div className="resume-item">
+                  <h4>달 테이블</h4>
+                  <h5>2021.03 ~ 2021.06</h5>
+                  <p>
+                    <em>담당 업무</em>
+                  </p>
+                    <ul>
+                      <li>
+                        음식 제조
+                      </li>
+                    </ul>
+                </div>
+                <div className="resume-item">
+                  <h4>세명 에프엔에프</h4>
+                  <h5>2022.01 ~ 2022.07</h5>
+                  <p>
+                    <em>담당 업무</em>
+                  </p>                  
+                    <ul>
+                      <li>
+                        소스 제조
+                      </li>
+                    </ul>
+                </div>
+                <div className="resume-item">
+                  <h4>한국고용정보(롯데 카드)</h4>
+                  <h5>2022.08 ~ 2023.02</h5>
+                  <p>
+                    <em>담당 업무</em>
+                  </p>                  
+                    <ul>
+                      <li>
+                        유선상 카드 업무 처리
+                      </li>
+                    </ul>
                 </div>
               </div>
             </div>
